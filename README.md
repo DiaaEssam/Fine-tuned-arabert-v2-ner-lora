@@ -2,6 +2,8 @@
 
 Fine-tuning **AraBERTv2** for Arabic Named Entity Recognition (NER) using **LoRA** (Low-Rank Adaptation). Trained on the [CoNLL++ Arabic NER dataset](https://huggingface.co/datasets/iSemantics/conllpp-ner-ar).
 
+🤗 **Model on Hugging Face:** [Diaa-Essam/arabert-v2-ner-lora](https://huggingface.co/Diaa-Essam/arabert-v2-ner-lora)
+
 ---
 
 ## Features
@@ -23,8 +25,7 @@ Fine-tuning **AraBERTv2** for Arabic Named Entity Recognition (NER) using **LoRA
 | F1        | 0.850601      |
 | Accuracy  | 0.9460      |
 
-
-
+---
 
 ## Project Structure
 
