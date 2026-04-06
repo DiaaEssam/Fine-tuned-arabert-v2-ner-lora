@@ -18,10 +18,11 @@ Fine-tuning **AraBERTv2** for Arabic Named Entity Recognition (NER) using **LoRA
 
 | Metric    | Score  |
 |-----------|--------|
-| Precision | —      |
-| Recall    | —      |
-| F1        | —      |
-| Accuracy  | —      |
+| Precision | 0.839822
+      |
+| Recall    | 0.861660      |
+| F1        | 0.850601      |
+| Accuracy  | 0.9460      |
 
 > Fill in your test-set scores after running `evaluate.py`.
 
