@@ -18,8 +18,7 @@ Fine-tuning **AraBERTv2** for Arabic Named Entity Recognition (NER) using **LoRA
 
 | Metric    | Score  |
 |-----------|--------|
-| Precision | 0.839822
-      |
+| Precision | 0.839822|
 | Recall    | 0.861660      |
 | F1        | 0.850601      |
 | Accuracy  | 0.9460      |
